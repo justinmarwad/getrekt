@@ -1,0 +1,1 @@
+"hey there" | Out-File "$env:Public\hey.txt"
